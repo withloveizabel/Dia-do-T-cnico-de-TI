@@ -1,4 +1,4 @@
-# Importando o módulo time para poder temporizas os textos
+# Importando o módulo time para poder temporizar os textos
 import time
 
 # Textos que vão aparecer na tela
